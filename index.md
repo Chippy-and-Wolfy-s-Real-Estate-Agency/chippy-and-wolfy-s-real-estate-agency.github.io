@@ -2,7 +2,8 @@
 
 Welcome to Chippy and Wolfy's Real Estate!
 
-Listings:
+## Listings:
+
 
 ## The Tree
 
