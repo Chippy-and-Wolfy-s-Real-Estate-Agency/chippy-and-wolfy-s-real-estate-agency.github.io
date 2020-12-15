@@ -7,11 +7,9 @@ Welcome to Chippy and Wolfy's Real Estate!
 
 We have currently two listings **The Tree** and **The Cave**.
 
->
+
 >##### The Tree
-> Hello buyers! Me, Chippy Brown and Wolfy Gray are here with a new habitat up for sale, The Tree is a perfect place to hangout with you fellow friends. The tree is a   > tree house built for chipmunks and squirrels, also free from any preadators! 
->
->
+> Hello buyers! Me, Chippy Brown and Wolfy Gray are here with a new habitat up for sale, The Tree is a perfect place to hangout with you fellow friends. The tree is a   tree house built for chipmunks and squirrels, also free from any preadators! 
 
 >
 >##### The Cave
